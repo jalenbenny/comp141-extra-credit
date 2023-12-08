@@ -1,0 +1,5 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.3  0.1 171728 13220 ?        Ss   21:40   0:07 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    21:40   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   21:40   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   21:40   0:00 [rcu_par_gp]
